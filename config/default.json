@@ -1,0 +1,13 @@
+{
+    "output_dir": "enhanced_audio",
+    "whisper_model": "base",
+    "device": null,
+    "remove_disfluencies": true,
+    "simplify_language": false,
+    "tts_engine": "piper",
+    "voice": "en_US-lessac-medium",
+    "speaker": 0,
+    "maintain_timing": true,
+    "output_format": "mp3",
+    "output_bitrate": "192k"
+}
